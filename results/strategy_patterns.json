@@ -1,0 +1,116 @@
+{
+  "opening_moves": [
+    {
+      "turn": 1,
+      "thought": "Strategic analysis for move to column 4",
+      "action": "4"
+    },
+    {
+      "turn": 2,
+      "thought": "Strategic analysis for move to column 3",
+      "action": "3"
+    },
+    {
+      "turn": 1,
+      "thought": "Strategic analysis for move to column 2",
+      "action": "2"
+    },
+    {
+      "turn": 2,
+      "thought": "Strategic analysis for move to column 4",
+      "action": "4"
+    },
+    {
+      "turn": 1,
+      "thought": "Strategic analysis for move to column 3",
+      "action": "3"
+    },
+    {
+      "turn": 2,
+      "thought": "Strategic analysis for move to column 2",
+      "action": "2"
+    },
+    {
+      "turn": 1,
+      "thought": "Strategic analysis for move to column 3",
+      "action": "3"
+    },
+    {
+      "turn": 2,
+      "thought": "Strategic analysis for move to column 3",
+      "action": "3"
+    },
+    {
+      "turn": 1,
+      "thought": "Strategic analysis for move to column 4",
+      "action": "4"
+    },
+    {
+      "turn": 2,
+      "thought": "Strategic analysis for move to column 4",
+      "action": "4"
+    },
+    {
+      "turn": 1,
+      "thought": "Strategic analysis for move to column 3",
+      "action": "3"
+    },
+    {
+      "turn": 2,
+      "thought": "Strategic analysis for move to column 2",
+      "action": "2"
+    },
+    {
+      "turn": 1,
+      "thought": "Strategic analysis for move to column 3",
+      "action": "3"
+    },
+    {
+      "turn": 2,
+      "thought": "Strategic analysis for move to column 3",
+      "action": "3"
+    },
+    {
+      "turn": 1,
+      "thought": "Strategic analysis for move to column 3",
+      "action": "3"
+    },
+    {
+      "turn": 2,
+      "thought": "Strategic analysis for move to column 3",
+      "action": "3"
+    },
+    {
+      "turn": 1,
+      "thought": "Strategic analysis for move to column 3",
+      "action": "3"
+    },
+    {
+      "turn": 2,
+      "thought": "Strategic analysis for move to column 0",
+      "action": "0"
+    },
+    {
+      "turn": 1,
+      "thought": "Strategic analysis for move to column 2",
+      "action": "2"
+    },
+    {
+      "turn": 2,
+      "thought": "Strategic analysis for move to column 2",
+      "action": "2"
+    }
+  ],
+  "threats": [],
+  "blocks": [],
+  "setups": [],
+  "winning_moves": [],
+  "stats": {
+    "total_turns": 60,
+    "opening_move_percentage": 33.33333333333333,
+    "threat_percentage": 0.0,
+    "block_percentage": 0.0,
+    "setup_percentage": 0.0,
+    "winning_move_percentage": 0.0
+  }
+}
