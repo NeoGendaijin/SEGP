@@ -1,2 +1,383 @@
 <?xml version='1.0' encoding='utf-8'?>
-<LPML_Collection><LPML trajectory_id="0"><Turn number="1"><Condition>Board state at turn 1</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn><Turn number="2"><Condition>Board state at turn 2</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="3"><Condition>Board state at turn 3</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn><Turn number="4"><Condition>Board state at turn 4</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn><Turn number="5"><Condition>Board state at turn 5</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn><Turn number="6"><Condition>Board state at turn 6</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn></LPML><LPML trajectory_id="1"><Turn number="1"><Condition>Board state at turn 1</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn><Turn number="2"><Condition>Board state at turn 2</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn><Turn number="3"><Condition>Board state at turn 3</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn><Turn number="4"><Condition>Board state at turn 4</Condition><Thought>Strategic analysis for move to column 6</Thought><Execution>Place piece in column 6</Execution><Action>6</Action></Turn><Turn number="5"><Condition>Board state at turn 5</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn><Turn number="6"><Condition>Board state at turn 6</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn><Turn number="7"><Condition>Board state at turn 7</Condition><Thought>Strategic analysis for move to column 1</Thought><Execution>Place piece in column 1</Execution><Action>1</Action></Turn><Turn number="8"><Condition>Board state at turn 8</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn></LPML><LPML trajectory_id="2"><Turn number="1"><Condition>Board state at turn 1</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="2"><Condition>Board state at turn 2</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn><Turn number="3"><Condition>Board state at turn 3</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="4"><Condition>Board state at turn 4</Condition><Thought>Strategic analysis for move to column 1</Thought><Execution>Place piece in column 1</Execution><Action>1</Action></Turn><Turn number="5"><Condition>Board state at turn 5</Condition><Thought>Strategic analysis for move to column 6</Thought><Execution>Place piece in column 6</Execution><Action>6</Action></Turn><Turn number="6"><Condition>Board state at turn 6</Condition><Thought>Strategic analysis for move to column 1</Thought><Execution>Place piece in column 1</Execution><Action>1</Action></Turn><Turn number="7"><Condition>Board state at turn 7</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="8"><Condition>Board state at turn 8</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn></LPML><LPML trajectory_id="3"><Turn number="1"><Condition>Board state at turn 1</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="2"><Condition>Board state at turn 2</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="3"><Condition>Board state at turn 3</Condition><Thought>Strategic analysis for move to column 5</Thought><Execution>Place piece in column 5</Execution><Action>5</Action></Turn><Turn number="4"><Condition>Board state at turn 4</Condition><Thought>Strategic analysis for move to column 1</Thought><Execution>Place piece in column 1</Execution><Action>1</Action></Turn><Turn number="5"><Condition>Board state at turn 5</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="6"><Condition>Board state at turn 6</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="7"><Condition>Board state at turn 7</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn></LPML><LPML trajectory_id="4"><Turn number="1"><Condition>Board state at turn 1</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn><Turn number="2"><Condition>Board state at turn 2</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn><Turn number="3"><Condition>Board state at turn 3</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn><Turn number="4"><Condition>Board state at turn 4</Condition><Thought>Strategic analysis for move to column 4</Thought><Execution>Place piece in column 4</Execution><Action>4</Action></Turn></LPML><LPML trajectory_id="5"><Turn number="1"><Condition>Board state at turn 1</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="2"><Condition>Board state at turn 2</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn><Turn number="3"><Condition>Board state at turn 3</Condition><Thought>Strategic analysis for move to column 5</Thought><Execution>Place piece in column 5</Execution><Action>5</Action></Turn><Turn number="4"><Condition>Board state at turn 4</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn><Turn number="5"><Condition>Board state at turn 5</Condition><Thought>Strategic analysis for move to column 1</Thought><Execution>Place piece in column 1</Execution><Action>1</Action></Turn><Turn number="6"><Condition>Board state at turn 6</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn><Turn number="7"><Condition>Board state at turn 7</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn></LPML><LPML trajectory_id="6"><Turn number="1"><Condition>Board state at turn 1</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="2"><Condition>Board state at turn 2</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="3"><Condition>Board state at turn 3</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="4"><Condition>Board state at turn 4</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn></LPML><LPML trajectory_id="7"><Turn number="1"><Condition>Board state at turn 1</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="2"><Condition>Board state at turn 2</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="3"><Condition>Board state at turn 3</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="4"><Condition>Board state at turn 4</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="5"><Condition>Board state at turn 5</Condition><Thought>Strategic analysis for move to column 0</Thought><Execution>Place piece in column 0</Execution><Action>0</Action></Turn><Turn number="6"><Condition>Board state at turn 6</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn></LPML><LPML trajectory_id="8"><Turn number="1"><Condition>Board state at turn 1</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="2"><Condition>Board state at turn 2</Condition><Thought>Strategic analysis for move to column 0</Thought><Execution>Place piece in column 0</Execution><Action>0</Action></Turn><Turn number="3"><Condition>Board state at turn 3</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="4"><Condition>Board state at turn 4</Condition><Thought>Strategic analysis for move to column 0</Thought><Execution>Place piece in column 0</Execution><Action>0</Action></Turn><Turn number="5"><Condition>Board state at turn 5</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn><Turn number="6"><Condition>Board state at turn 6</Condition><Thought>Strategic analysis for move to column 3</Thought><Execution>Place piece in column 3</Execution><Action>3</Action></Turn></LPML><LPML trajectory_id="9"><Turn number="1"><Condition>Board state at turn 1</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn><Turn number="2"><Condition>Board state at turn 2</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn><Turn number="3"><Condition>Board state at turn 3</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn><Turn number="4"><Condition>Board state at turn 4</Condition><Thought>Strategic analysis for move to column 2</Thought><Execution>Place piece in column 2</Execution><Action>2</Action></Turn></LPML></LPML_Collection>
+<LPML_Collection>
+    <LPML trajectory_id="0">
+        <Turn number="1">
+            <Condition>Board state at turn 1</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+        <Turn number="2">
+            <Condition>Board state at turn 2</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="3">
+            <Condition>Board state at turn 3</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+        <Turn number="4">
+            <Condition>Board state at turn 4</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+        <Turn number="5">
+            <Condition>Board state at turn 5</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+        <Turn number="6">
+            <Condition>Board state at turn 6</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+    </LPML>
+    <LPML trajectory_id="1">
+        <Turn number="1">
+            <Condition>Board state at turn 1</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+        <Turn number="2">
+            <Condition>Board state at turn 2</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+        <Turn number="3">
+            <Condition>Board state at turn 3</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+        <Turn number="4">
+            <Condition>Board state at turn 4</Condition>
+            <Thought>Strategic analysis for move to column 6</Thought>
+            <Execution>Place piece in column 6</Execution>
+            <Action>6</Action>
+        </Turn>
+        <Turn number="5">
+            <Condition>Board state at turn 5</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+        <Turn number="6">
+            <Condition>Board state at turn 6</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+        <Turn number="7">
+            <Condition>Board state at turn 7</Condition>
+            <Thought>Strategic analysis for move to column 1</Thought>
+            <Execution>Place piece in column 1</Execution>
+            <Action>1</Action>
+        </Turn>
+        <Turn number="8">
+            <Condition>Board state at turn 8</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+    </LPML>
+    <LPML trajectory_id="2">
+        <Turn number="1">
+            <Condition>Board state at turn 1</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="2">
+            <Condition>Board state at turn 2</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+        <Turn number="3">
+            <Condition>Board state at turn 3</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="4">
+            <Condition>Board state at turn 4</Condition>
+            <Thought>Strategic analysis for move to column 1</Thought>
+            <Execution>Place piece in column 1</Execution>
+            <Action>1</Action>
+        </Turn>
+        <Turn number="5">
+            <Condition>Board state at turn 5</Condition>
+            <Thought>Strategic analysis for move to column 6</Thought>
+            <Execution>Place piece in column 6</Execution>
+            <Action>6</Action>
+        </Turn>
+        <Turn number="6">
+            <Condition>Board state at turn 6</Condition>
+            <Thought>Strategic analysis for move to column 1</Thought>
+            <Execution>Place piece in column 1</Execution>
+            <Action>1</Action>
+        </Turn>
+        <Turn number="7">
+            <Condition>Board state at turn 7</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="8">
+            <Condition>Board state at turn 8</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+    </LPML>
+    <LPML trajectory_id="3">
+        <Turn number="1">
+            <Condition>Board state at turn 1</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="2">
+            <Condition>Board state at turn 2</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="3">
+            <Condition>Board state at turn 3</Condition>
+            <Thought>Strategic analysis for move to column 5</Thought>
+            <Execution>Place piece in column 5</Execution>
+            <Action>5</Action>
+        </Turn>
+        <Turn number="4">
+            <Condition>Board state at turn 4</Condition>
+            <Thought>Strategic analysis for move to column 1</Thought>
+            <Execution>Place piece in column 1</Execution>
+            <Action>1</Action>
+        </Turn>
+        <Turn number="5">
+            <Condition>Board state at turn 5</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="6">
+            <Condition>Board state at turn 6</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="7">
+            <Condition>Board state at turn 7</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+    </LPML>
+    <LPML trajectory_id="4">
+        <Turn number="1">
+            <Condition>Board state at turn 1</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+        <Turn number="2">
+            <Condition>Board state at turn 2</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+        <Turn number="3">
+            <Condition>Board state at turn 3</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+        <Turn number="4">
+            <Condition>Board state at turn 4</Condition>
+            <Thought>Strategic analysis for move to column 4</Thought>
+            <Execution>Place piece in column 4</Execution>
+            <Action>4</Action>
+        </Turn>
+    </LPML>
+    <LPML trajectory_id="5">
+        <Turn number="1">
+            <Condition>Board state at turn 1</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="2">
+            <Condition>Board state at turn 2</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+        <Turn number="3">
+            <Condition>Board state at turn 3</Condition>
+            <Thought>Strategic analysis for move to column 5</Thought>
+            <Execution>Place piece in column 5</Execution>
+            <Action>5</Action>
+        </Turn>
+        <Turn number="4">
+            <Condition>Board state at turn 4</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+        <Turn number="5">
+            <Condition>Board state at turn 5</Condition>
+            <Thought>Strategic analysis for move to column 1</Thought>
+            <Execution>Place piece in column 1</Execution>
+            <Action>1</Action>
+        </Turn>
+        <Turn number="6">
+            <Condition>Board state at turn 6</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+        <Turn number="7">
+            <Condition>Board state at turn 7</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+    </LPML>
+    <LPML trajectory_id="6">
+        <Turn number="1">
+            <Condition>Board state at turn 1</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="2">
+            <Condition>Board state at turn 2</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="3">
+            <Condition>Board state at turn 3</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="4">
+            <Condition>Board state at turn 4</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+    </LPML>
+    <LPML trajectory_id="7">
+        <Turn number="1">
+            <Condition>Board state at turn 1</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="2">
+            <Condition>Board state at turn 2</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="3">
+            <Condition>Board state at turn 3</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="4">
+            <Condition>Board state at turn 4</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="5">
+            <Condition>Board state at turn 5</Condition>
+            <Thought>Strategic analysis for move to column 0</Thought>
+            <Execution>Place piece in column 0</Execution>
+            <Action>0</Action>
+        </Turn>
+        <Turn number="6">
+            <Condition>Board state at turn 6</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+    </LPML>
+    <LPML trajectory_id="8">
+        <Turn number="1">
+            <Condition>Board state at turn 1</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="2">
+            <Condition>Board state at turn 2</Condition>
+            <Thought>Strategic analysis for move to column 0</Thought>
+            <Execution>Place piece in column 0</Execution>
+            <Action>0</Action>
+        </Turn>
+        <Turn number="3">
+            <Condition>Board state at turn 3</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="4">
+            <Condition>Board state at turn 4</Condition>
+            <Thought>Strategic analysis for move to column 0</Thought>
+            <Execution>Place piece in column 0</Execution>
+            <Action>0</Action>
+        </Turn>
+        <Turn number="5">
+            <Condition>Board state at turn 5</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+        <Turn number="6">
+            <Condition>Board state at turn 6</Condition>
+            <Thought>Strategic analysis for move to column 3</Thought>
+            <Execution>Place piece in column 3</Execution>
+            <Action>3</Action>
+        </Turn>
+    </LPML>
+    <LPML trajectory_id="9">
+        <Turn number="1">
+            <Condition>Board state at turn 1</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+        <Turn number="2">
+            <Condition>Board state at turn 2</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+        <Turn number="3">
+            <Condition>Board state at turn 3</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+        <Turn number="4">
+            <Condition>Board state at turn 4</Condition>
+            <Thought>Strategic analysis for move to column 2</Thought>
+            <Execution>Place piece in column 2</Execution>
+            <Action>2</Action>
+        </Turn>
+    </LPML>
+</LPML_Collection>
